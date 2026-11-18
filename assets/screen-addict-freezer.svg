@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="340" viewBox="0 0 560 340" role="img" aria-labelledby="title desc">
+  <title id="title">Screen Addict Freezer</title>
+  <desc id="desc">A personal focus tool in active use. Social media access on the phone is time-limited and unlocked by solving a C++ OOP question on the computer.</desc>
+  <defs>
+    <pattern id="weave" width="56" height="14" patternUnits="userSpaceOnUse">
+      <path d="M0 7h7l7-6 7 6h14l7-6 7 6h7M7 7l7 6 7-6m14 0 7 6 7-6" fill="none" stroke="#a61f29" stroke-width="1.6"/>
+      <path d="M11 7l3-3 3 3-3 3zm28 0 3-3 3 3-3 3z" fill="#ead0a2" opacity=".7"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="558" height="338" fill="#28151b" stroke="#58352f"/>
+  <rect x="16" y="12" width="528" height="14" fill="url(#weave)"/>
+  <rect x="16" y="324" width="528" height="14" fill="url(#weave)"/>
+  <g fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="2">
+    <rect x="343" y="35" width="52" height="94" rx="3" fill="#a61f29" fill-opacity=".17" stroke="#ead0a2"/>
+    <path d="M360 44h18m-14 76h10" stroke="#bf842b"/>
+    <rect x="357" y="77" width="25" height="23" stroke="#ead0a2"/>
+    <path d="M362 77V67a7.5 7.5 0 0 1 15 0v10m-7.5 10v5" stroke="#ead0a2"/>
+    <path d="M400 82h25" stroke="#bf842b" stroke-dasharray="3 5"/>
+    <rect x="431" y="47" width="97" height="63" stroke="#ead0a2"/>
+    <path d="M431 100h97m-49 10v14m-17 0h34" stroke="#bf842b"/>
+    <path d="M458 65l-11 12 11 12m43-24 11 12-11 12m-18-25-8 27" stroke="#ead0a2"/>
+  </g>
+  <text x="32" y="154" font-family="Consolas, monospace" font-size="14" letter-spacing="1.1" fill="#c9b69b">FOCUS / PERSONAL TOOL</text>
+  <text x="32" y="199" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="600" fill="#ead0a2">Screen Addict Freezer</text>
+  <text x="32" y="239" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#c9b69b">Less scrolling. More solving.</text>
+  <path d="M32 290h496" stroke="#58352f"/>
+  <text x="32" y="315" font-family="Consolas, monospace" font-size="14" letter-spacing="1.7" fill="#bf842b">IN ACTIVE USE</text>
+</svg>
