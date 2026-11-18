@@ -15,7 +15,7 @@ That includes a kingdom full of difficult choices, a digital shelf for my films,
 ### A few things I've built
 
 <p>
-  <img src="./assets/screen-addict-freezer.png" alt="Screen Addict Freezer — an actively used personal tool that restricts phone social media and restores access after a C++ OOP question is solved on the computer." width="380">
+  <a href="https://github.com/Brensvenka/Screen_Addict_Freezer"><img src="./assets/screen-addict-freezer.png" alt="Screen Addict Freezer — a personal focus tool. View the GitHub repository." width="380"></a>
   <a href="https://brensvenka.itch.io/long-live-the-king"><img src="./assets/long-live-the-king.png" alt="Long Live the King — a choice-driven narrative game built with Unreal Engine. Play on itch.io." width="380"></a>
 </p>
 <p>
@@ -23,7 +23,7 @@ That includes a kingdom full of difficult choices, a digital shelf for my films,
   <a href="https://github.com/Brensvenka/Formula-1-Season-2025-Simulator"><img src="./assets/formula-one.png" alt="F1 Season Simulator — my first interactive project, built with Python. View the repository." width="380"></a>
 </p>
 
-**Screen Addict Freezer** is a personal focus tool I actively use. It restricts social media on my phone, and I unlock access by solving a C++ OOP question on my computer.
+**[Screen Addict Freezer](https://github.com/Brensvenka/Screen_Addict_Freezer)** is a personal focus tool I actively use. It restricts social media on my phone, and I unlock access by solving a C++ OOP question on my computer.
 
 **[Long Live the King](https://brensvenka.itch.io/long-live-the-king)** is my narrative game project: choices, dice rolls, and branching paths through a kingdom. Made with Unreal Engine, with scene and character design contributions from Zehranur Çevik.
 
